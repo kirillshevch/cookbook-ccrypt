@@ -1,7 +1,7 @@
-name             'cookbook-ccrypt'
-maintainer       'YOUR_COMPANY_NAME'
-maintainer_email 'YOUR_EMAIL'
-license          'All rights reserved'
-description      'Installs/Configures cookbook-ccrypt'
+name             'ccrypt'
+maintainer       'kirillshevch'
+maintainer_email 'hello@kirillshevch.com'
+license          'Apache 2.0'
+description      'Install ccrypt'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
-version          '0.1.0'
+version          '1.0.0'

@@ -1,8 +1,8 @@
 #
-# Cookbook Name:: cookbook-ccrypt
+# Cookbook Name:: ccrypt
 # Recipe:: default
 #
-# Copyright 2017, YOUR_COMPANY_NAME
-#
-# All rights reserved - Do Not Redistribute
-#
+
+package 'ccrypt' do
+  action :install
+end
